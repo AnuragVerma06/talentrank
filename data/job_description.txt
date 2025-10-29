@@ -1,0 +1,24 @@
+Job Title: Full-Stack Software Developer
+
+We are looking for a talented Full-Stack Developer to join our team. The ideal candidate will have experience in both frontend and backend development, with strong skills in programming, database management, and web technologies.
+
+Responsibilities:
+- Develop and maintain web applications using modern frontend frameworks (React, Angular, or Vue.js)
+- Build scalable backend APIs using Node.js, Django, or Flask
+- Work with relational and NoSQL databases (MySQL, PostgreSQL, MongoDB)
+- Collaborate with cross-functional teams to define, design, and ship new features
+- Optimize applications for maximum speed and scalability
+- Implement automated testing and deployment pipelines
+
+Requirements:
+- Strong proficiency in Python, JavaScript, or Java
+- Experience with frontend technologies: HTML, CSS, JavaScript, React
+- Experience with backend frameworks: Django, Flask, Node.js
+- Knowledge of database design and management (SQL and NoSQL)
+- Familiarity with Git, Docker, and cloud services (AWS or Azure)
+- Excellent problem-solving skills and ability to work in a team
+
+Preferred:
+- Experience with machine learning or AI integrations
+- Familiarity with Agile/Scrum methodologies
+- Good understanding of DevOps practices
