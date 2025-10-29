@@ -1,3 +1,4 @@
+pip>=25.0
 streamlit>=1.36.0
 spacy>=3.7.0
 pandas>=2.0.0
