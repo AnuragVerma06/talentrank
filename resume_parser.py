@@ -2,17 +2,8 @@ import spacy
 import os
 import tempfile
 import re
-from spacy.cli import download
 
-# ✅ Create a temporary directory for models (works on Streamlit Cloud)
-temp_dir = tempfile.gettempdir()
-model_dir = os.path.join(temp_dir, "en_core_web_sm")
-
-try:
-    nlp = spacy.load(model_dir)
-except OSError:
-    download("en_core_web_sm")
-    nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load("en_core_web_sm")
 
 def extract_entities(text):
     doc = nlp(text)
