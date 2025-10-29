@@ -4,3 +4,5 @@ pdfplumber
 python-docx
 PyPDF2
 pandas
+sentence-transformers
+torch
