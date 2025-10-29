@@ -99,5 +99,5 @@ talentrank/
 
 ## 🧑‍💻 Author
 
-Built with ❤️ by [Your Name](https://github.com/<your-username>)  
+Built with ❤️ by Anurag Verma  
 Feedback welcome — PRs are open!
